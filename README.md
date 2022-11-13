@@ -6,6 +6,6 @@
   <div> 
 
  
-  ![Snake animation](https://github.com/Lcsbg16/ZdFaker/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ZdFaker/ZdFaker/blob/output/github-contribution-grid-snake.svg)
  
 </div>
